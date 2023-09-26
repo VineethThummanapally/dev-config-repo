@@ -1,1 +1,9 @@
 Nothing Here, yeah it's "Nothing Here"
+
+netstat -ano | findstr : port number
+
+taskkill /PID typeyourPIDhere /F
+
+eureka.server.enableSelfPreservation=false
+
+eureka.instance.lease-renewal-interval-in-seconds=30
