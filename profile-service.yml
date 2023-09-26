@@ -31,4 +31,4 @@ management:
       exposure:
         include: refresh,health
 api:
-  customer: http://USER-SERVICE/user
+  user: http://USER-SERVICE/user
