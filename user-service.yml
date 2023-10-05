@@ -31,3 +31,7 @@ management:
     web:
       exposure:
         include: refresh,health
+api:
+  user: http://USER-SERVICE
+  education: http://EDUCATION-SERVICE
+  experience: http://EXPERIENCE-SERVICE
