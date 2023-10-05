@@ -33,3 +33,5 @@ management:
         include: refresh,health
 api:
   user: http://USER-SERVICE/user
+  education: http://EDUCATION-SERVICE/education
+  experience: http://EXPERIENCE-SERVICE/experience
